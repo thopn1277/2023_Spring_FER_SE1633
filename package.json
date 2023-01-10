@@ -1,0 +1,27 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Web development with React using NodeJS library",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "lite":"lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thopn1277/2023_Spring_FER_SE1633.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "ThoPN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thopn1277/2023_Spring_FER_SE1633/issues"
+  },
+  "homepage": "https://github.com/thopn1277/2023_Spring_FER_SE1633#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
