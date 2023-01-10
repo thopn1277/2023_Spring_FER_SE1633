@@ -1,6 +1,6 @@
--- CÀI ĐẶT WEB SERVER (Lite-Server) ---
+-- CÀI ĐẶT WEB SERVER (Lite-Server, version 2.6.1) ---
 
-1. Tải phần mềm NodeJS: https://nodejs.org
+1. Tải phần mềm NodeJS: https://nodejs.org (version: 18.13.0)
 
 2. Tiến hành cài đặt
 
@@ -26,3 +26,10 @@
 
 8. Chạy Lite-Server:
     > npm start
+
+---- CÀI ĐẶT BOOTSTRAP, JQUERY, POPPER.JS VÀO Node Modules ----
+1. Cài đặt Bootstrap (v4.0.0)
+    > npm install bootstrap@4.0.0 --save
+
+2. Cài đặt Jquery, Popper.js
+    > npm install jquery@3.3.1 popper.js@1.12.9 --save
