@@ -1,4 +1,10 @@
-body{
-    background-color: yellow;
-    color: red;
+.container, .container-fluid{
+}
+
+.row{
+    border: 1px solid royalblue;
+}
+
+.row div{
+    border: 1px solid red;
 }
